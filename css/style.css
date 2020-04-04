@@ -217,51 +217,51 @@ body {
     }
 
     .ring > .one {
-      -webkit-transform: translateZ(494px);
+      -webkit-transform:scale3d(0.8, 0.8, 0.8)  translateZ(494px);
     }
 
     .ring > .two {
-      -webkit-transform: rotateY(30deg) translateZ(494px);
+      -webkit-transform: rotateY(30deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .three {
-      -webkit-transform: rotateY(60deg) translateZ(494px);
+      -webkit-transform: rotateY(60deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .four {
-      -webkit-transform: rotateY(90deg) translateZ(494px);
+      -webkit-transform: rotateY(90deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .five {
-      -webkit-transform: rotateY(120deg) translateZ(494px);
+      -webkit-transform: rotateY(120deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .six {
-      -webkit-transform: rotateY(150deg) translateZ(494px);
+      -webkit-transform: rotateY(150deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .seven {
-      -webkit-transform: rotateY(180deg) translateZ(494px);
+      -webkit-transform: rotateY(180deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .eight {
-      -webkit-transform: rotateY(210deg) translateZ(494px);
+      -webkit-transform: rotateY(210deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .nine {
-      -webkit-transform: rotateY(-120deg) translateZ(494px);
+      -webkit-transform: rotateY(-120deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .ten {
-      -webkit-transform: rotateY(-90deg) translateZ(494px);
+      -webkit-transform: rotateY(-90deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .eleven {
-      -webkit-transform: rotateY(300deg) translateZ(494px);
+      -webkit-transform: rotateY(300deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .ring > .twelve {
-      -webkit-transform: rotateY(330deg) translateZ(494px);
+      -webkit-transform: rotateY(330deg) scale3d(0.8, 0.8, 0.8) translateZ(494px);
     }
 
     .controls {
