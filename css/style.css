@@ -24,7 +24,8 @@ body::after{
 	opacity: 0.4;
 }
 	.say{
-		margin-top: 40%;
+		display: block;
+		
 		font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
 	  text-transform: uppercase;
 	  text-align: center;
